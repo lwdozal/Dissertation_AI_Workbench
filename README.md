@@ -16,7 +16,7 @@ Ongoing monitoring of security and ethical risks
 ### Resources
 Torch, Torchvision, \
 transformers, sentence transformers,  \
-PIL, Requests, pydantic, os \
+PIL, Requests, pydantic, opoen-cv, os \
 langchain core and openai, \
 *Hugging Face Access, Verde Access for LLM*
 
