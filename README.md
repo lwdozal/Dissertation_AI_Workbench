@@ -20,6 +20,13 @@ PIL, Requests, pydantic, open-cv, os \
 langchain core and openai, \
 *Hugging Face Access, Verde Access for LLM*
 
+### Implementation
+
+1. Download/clone the repository and save to your desired folder 
+2. Create a new virtual environment
+3. Install the libraries and package requirements `pip install -r requirements.txt`
+4. 
+
 
 ## Model Deployment
 
