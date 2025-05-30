@@ -13,7 +13,7 @@ Selenium & Beautiful Soup
 Training and fine-tuning on a subset of data to track performance, identify errors, and optimize models.
 Ongoing monitoring of security and ethical risks
 
-### Resources
+**Resources** \
 Torch, Torchvision, \
 transformers, sentence transformers,  \
 PIL, Requests, pydantic, open-cv, os \
