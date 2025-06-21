@@ -1,0 +1,11 @@
+matplotlib
+pillow
+pathlib
+imagesize
+numpy
+pandas
+opencv-python
+scikit-learn
+selenium
+beautifulsoup4
+tqdm
