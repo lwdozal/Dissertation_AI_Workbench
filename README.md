@@ -1,13 +1,12 @@
 # Dissertation_AI_Workbench
 MLOPs and LLMOPs for dissertation analysis workflow
 
-## Data Collection and Evaluation
--- Web Scraping (Bot);  
--- Cleaning; Preparing and Monitoring;   
+## [Data Collection and Evaluation](https://github.com/lwdozal/Dissertation_AI_Workbench/tree/main/data_collection)
+-- Web Scraping (Bot) 
+-- Cleaning; Preparing and Monitoring   
 -- Identify security and ethical risks in the data and storage
 ### Resources
-Instagram Account \
-Selenium & Beautiful Soup
+Instagram Account
 
 ## Model Development (Clustering and image label generation)
 Training and fine-tuning on a subset of data to track performance, identify errors, and optimize models.
