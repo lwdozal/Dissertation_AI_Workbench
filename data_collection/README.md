@@ -5,23 +5,23 @@ Before beginning, make sure you create an Instagram accoutn. I created one jsut 
 
 ## Web scraping
 Create a list of hashtags you want to use to scrape instagram. 
-- In the insta_hashtags2025.py input your password, username, and create a hashtag variable. 
+- In the `insta_hashtags2025.py` input your password, username, and create a hashtag variable. 
 - Uncomment the function calls and url when necessary 
-- run insta_accounts2025.py 
+- run `insta_accounts2025.py` 
 - This will open a web browser. Wait for it to sign in using your input password and username. 
 - Manually click the 'Not Now' button -- could not figure this out for some reason.
 
 Create a list of accounts you want to use to scrape instagram.
-- In the insta_hashtags2025.py input your password, username, and create a hashtag variable. 
+- In the i`nsta_hashtags2025.py` input your password, username, and create a hashtag variable. 
 - Uncomment the function calls and url when necessary 
-- run insta_accounts2025.py 
+- run `insta_accounts2025.py` 
 - This will open a web browser. Wait for it to sign in using your input password and username. 
 - Manually click the 'Not Now' button -- could not figure this out for some reason.
 
 Both of these methods will append the output to the *content.csv* file and will create folders for each hashtag/account.
 
 ## Cleaning
-go to data_ceaning folder \
+Go to data_ceaning folder \
 Open the `RemoveDuplicates.py` and make sure the file being as the content vairable matches your file. 
 
 This will create a new file with the duplicates removed from your content file. 
