@@ -2,8 +2,8 @@
 MLOPs and LLMOPs for dissertation analysis workflow
 
 ## [Data Collection and Evaluation](https://github.com/lwdozal/Dissertation_AI_Workbench/tree/main/data_collection)
--- Web Scraping (Bot) 
--- Cleaning; Preparing and Monitoring   
+-- Web Scraping (Bot); 
+-- Cleaning; Preparing and Monitoring;   
 -- Identify security and ethical risks in the data and storage
 ### Resources
 Instagram Account
