@@ -1,6 +1,12 @@
 # Dissertation_AI_Workbench
 MLOPs and LLMOPs for dissertation analysis workflow
 
+### Implementation
+
+1. Download/clone the repository and save to your desired folder 
+2. Create a new virtual environment
+
+
 ## [Data Collection and Evaluation](https://github.com/lwdozal/Dissertation_AI_Workbench/tree/main/data_collection)
 - Web Scraping (Bot) 
 - Cleaning; Preparing and Monitoring   
@@ -8,24 +14,19 @@ MLOPs and LLMOPs for dissertation analysis workflow
 ### Resources
 Instagram Account
 
-## Model Development (Clustering and image label generation)
-Training and fine-tuning on a subset of data to track performance, identify errors, and optimize models.
+## [Step 1: Pattern Detection](https://github.com/lwdozal/Dissertation_AI_Workbench/tree/main/Step1_Pattern_Detection)
+
+### Model Development (Image Label and Caption Generation)
+Training and fine-tuning on a subset of data to track performance, identify errors, and optimize models.\
 Ongoing monitoring of security and ethical risks
 
-**Resources** \
-Torch, Torchvision, \
+### Resources
+Hugging Face Access, Verde Access for LLM, GPU Access
+
+<!-- Torch, Torchvision, \
 transformers, sentence transformers,  \
 PIL, Requests, pydantic, open-cv, os \
-langchain core and openai, \
-*Hugging Face Access, Verde Access for LLM*
+langchain core and openai, \ -->
 
-### Implementation
-
-1. Download/clone the repository and save to your desired folder 
-2. Create a new virtual environment
-3. Install the libraries and package requirements `pip install -r requirements.txt`
-4. 
-
-
-## Model Deployment
+## Model Deployment (Clustering and Network Building)
 
