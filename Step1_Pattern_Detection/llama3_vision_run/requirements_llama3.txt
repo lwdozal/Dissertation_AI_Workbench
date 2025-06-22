@@ -1,0 +1,14 @@
+llama-index-core 
+llama-index-llms-litellm
+pydantic
+langchain
+
+langchain-community 
+langchain-core 
+langchain-openai
+accelerate 
+peft 
+bitsandbytes 
+transformers 
+trl
+opencv-python
