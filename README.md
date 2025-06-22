@@ -1,4 +1,4 @@
-# Dissertation_AI_Workbench
+# AI Workbench: Visual Network Narrative Dissertation
 MLOPs and LLMOPs for dissertation analysis workflow
 
 ### Implementation
