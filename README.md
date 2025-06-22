@@ -28,5 +28,5 @@ transformers, sentence transformers,  \
 PIL, Requests, pydantic, open-cv, os \
 langchain core and openai, \ -->
 
-## Model Deployment (Clustering and Network Building)
+### Model Deployment (Clustering and Network Building)
 
