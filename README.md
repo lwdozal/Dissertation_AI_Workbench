@@ -21,7 +21,7 @@ Training and fine-tuning on a subset of data to track performance, identify erro
 Ongoing monitoring of security and ethical risks
 
 ### Resources
-Hugging Face Access, Verde Access for LLM, GPU Access
+Hugging Face Access, Access to LLM (I used VERDE), GPU Access
 
 <!-- Torch, Torchvision, \
 transformers, sentence transformers,  \
