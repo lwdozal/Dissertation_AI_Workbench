@@ -1,4 +1,4 @@
-# FOSS Reference Hub Authors
+# Author
 
 **Laura Dozal**: PhD Candidate, College of Information, University of Arizona
 
