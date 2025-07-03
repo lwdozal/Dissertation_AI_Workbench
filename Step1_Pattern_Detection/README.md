@@ -1,4 +1,7 @@
-# Analysis Outline
+# Pattern Detection
+Identify specific themes and topics within the content of the images. Explore how the presentation of the image and account holder comment might change the content themes.
+
+## Analysis Outline
 
 Get embeddings (Images, comments, AI captions) \\
 
@@ -19,7 +22,7 @@ Create Structural graph (content-based knowledge representation)
 - Content analysis: Visualize tags; summary statistics of tags, datetime, hashtags, likes
 
 
-# Implementation
+## Implementation
 Image embedding analysis without labels or captions
 - ResNET
 - CLIP
@@ -42,9 +45,9 @@ Image embedding analysis without labels or captions
 
 ### Image embedding analysis with labels and captions
 Generate Captions and labels in Structured format:
-- BLIP-2
-- Llama 3
-- QwneVL
+- BLIP-2 : Caption abiliites
+- Llama 3 Vision : Labels + caption
+- Qwne 2.5-VL : Labels + caption
 
 Clean post comments i.e. lemmetize, translate emojies, rename hashtags, lowercase sentences
 Multlingual sentence transformers
