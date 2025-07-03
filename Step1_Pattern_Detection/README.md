@@ -41,8 +41,15 @@ Image embedding analysis without labels or captions
 
 
 ### Image embedding analysis with labels and captions
-- Clean post comments i.e. lemmetize, translate emojies, rename hashtags, lowercase sentences
-- Multlingual sentence transformers
-    - Huggingface sentence transformer
-    - LaBASE (Language Agnostic BERT sentence encoder)
-    - GCN?
+Generate Captions and labels in Structured format:
+- BLIP-2
+- Llama 3
+- QwneVL
+
+Clean post comments i.e. lemmetize, translate emojies, rename hashtags, lowercase sentences
+Multlingual sentence transformers
+- Huggingface sentence transformer
+- LaBASE (Language Agnostic BERT sentence encoder)
+- GCN?
+
+... Lead into Step2 to begin creation of Semantic Graph
