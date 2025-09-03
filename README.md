@@ -30,3 +30,17 @@ langchain core and openai, \ -->
 
 ### Model Deployment (Clustering and Network Building)
 
+
+## Step 2: Pattern Refinement
+Clean post comments i.e. lemmetize, translate emojies, rename hashtags, lowercase sentences
+Multlingual sentence transformers
+- Huggingface sentence transformer
+- LaBASE (Language Agnostic BERT sentence encoder)
+- GCN?
+
+### Identify embeddings similarities
+
+Create Structural graph (content-based knowledge representation) 
+- Viz_weights + tag_weights
+- Viz_weights + generated captions
+- Leidan algorithm; Evaluate
