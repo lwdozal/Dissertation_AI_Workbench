@@ -21,6 +21,10 @@ Instagram Account
 ### Model Development (Image Label and Caption Generation)
 Training and fine-tuning on a subset of data to track performance, identify errors, and optimize models.\
 Ongoing monitoring of security and ethical risks
+Evaluation: 
+- Acuracy, Precision, Recall, F1-Score
+- Confusion Matrix (Visuallization)
+- BERTScore, Sentence Transformer Cosine Similarities
 
 ### Resources
 Hugging Face Access, Access to LLM (I used VERDE), GPU Access
