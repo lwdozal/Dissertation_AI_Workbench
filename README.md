@@ -16,9 +16,9 @@ Instagram Account
 
 ### Data Exploration (Clustering)
 
-## [Step 1: Pattern Detection](https://github.com/lwdozal/Dissertation_AI_Workbench/tree/main/Step1_Pattern_Detection)
+## [Model Development](https://github.com/lwdozal/Dissertation_AI_Workbench/tree/main/Step1_Pattern_Detection)
 
-### Model Development (Image Label and Caption Generation)
+### Image Label and Caption Generation
 Training and fine-tuning on a subset of data to track performance, identify errors, and optimize models.\
 Clean post comments i.e. lemmetize, translate emojies, rename hashtags, lowercase sentences, etc \
 Multlingual sentence transformers
@@ -43,12 +43,16 @@ langchain core and openai, \ -->
 
 
 
-## Step 2: Pattern Refinement
+## Model Deployment
 
-
-### Identify embeddings similarities
+### Identify Semantic similarities
 
 Create Structural graph (content-based knowledge representation) 
-- Viz_weights + tag_weights
-- Viz_weights + generated captions
-- Leidan algorithm; Evaluate
+- Viz_weights + label_weights
+- Viz_weights & label_weights + generated captions
+- Viz_weights & label_weights + generated captions & original post comments
+
+Community Detection (Evaluation of Network Structure):
+- Centraility Measures
+- ERGM algorithm
+- Leidan algorithm
