@@ -27,7 +27,7 @@ Multlingual sentence transformers
 - GCN?
 
 Evaluation Metrics: 
-- Acuracy, Precision, Recall, F1-Score
+- Acuracy, Precision, Recall, F1-Score, Hamming Loss
 - Confusion Matrix (Visuallization)
 - BERTScore, Sentence Transformer Cosine Similarities
 
