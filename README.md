@@ -56,3 +56,7 @@ Community Detection (Evaluation of Network Structure):
 - Centraility Measures
 - ERGM algorithm
 - Leidan algorithm
+
+Graph Analysis
+- Multipartite, Bipartite
+- Multiplex Graphs?
