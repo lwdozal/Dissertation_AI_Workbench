@@ -16,6 +16,8 @@ Instagram Account
 
 ## [Step 1: Pattern Detection](https://github.com/lwdozal/Dissertation_AI_Workbench/tree/main/Step1_Pattern_Detection)
 
+### Model Development (Clustering and Network Building)
+
 ### Model Development (Image Label and Caption Generation)
 Training and fine-tuning on a subset of data to track performance, identify errors, and optimize models.\
 Ongoing monitoring of security and ethical risks
@@ -28,7 +30,6 @@ transformers, sentence transformers,  \
 PIL, Requests, pydantic, open-cv, os \
 langchain core and openai, \ -->
 
-### Model Deployment (Clustering and Network Building)
 
 
 ## Step 2: Pattern Refinement
