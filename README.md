@@ -31,7 +31,7 @@ Evaluation Metrics:
 - Confusion Matrix (Visuallization)
 - BERTScore, Sentence Transformer Cosine Similarities
 
-Ongoing monitoring of security and ethical risks \
+Ongoing monitoring of security and ethical risks 
 
 ### Resources
 Hugging Face Access, Access to LLM (I used VERDE), GPU Access
