@@ -48,9 +48,9 @@ langchain core and openai, \ -->
 ### Identify Semantic similarities
 
 Create Structural graph (content-based knowledge representation) 
-- Viz_weights + label_weights
-- Viz_weights & label_weights + generated captions
-- Viz_weights & label_weights + generated captions & original post comments
+- Viz_weights + generated label_weights
+- Viz_weights & generated label_weights + generated captions
+- Viz_weights & generated label_weights + generated captions & original post comments
 
 Community Detection (Evaluation of Network Structure):
 - Centraility Measures
