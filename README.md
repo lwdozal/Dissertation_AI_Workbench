@@ -11,20 +11,27 @@ MLOPs and LLMOPs for dissertation analysis workflow
 - Web Scraping (Bot) 
 - Cleaning; Preparing and Monitoring   
 - Identify security and ethical risks in the data and storage
-### Resources
+#### Resources
 Instagram Account
+
+### Data Exploration (Clustering)
 
 ## [Step 1: Pattern Detection](https://github.com/lwdozal/Dissertation_AI_Workbench/tree/main/Step1_Pattern_Detection)
 
-### Model Development (Clustering and Network Building)
-
 ### Model Development (Image Label and Caption Generation)
 Training and fine-tuning on a subset of data to track performance, identify errors, and optimize models.\
-Ongoing monitoring of security and ethical risks
-Evaluation: 
+Clean post comments i.e. lemmetize, translate emojies, rename hashtags, lowercase sentences, etc \
+Multlingual sentence transformers
+- Huggingface sentence transformer
+- LaBASE (Language Agnostic BERT sentence encoder)
+- GCN?
+
+Evaluation Metrics: 
 - Acuracy, Precision, Recall, F1-Score
 - Confusion Matrix (Visuallization)
 - BERTScore, Sentence Transformer Cosine Similarities
+
+Ongoing monitoring of security and ethical risks \
 
 ### Resources
 Hugging Face Access, Access to LLM (I used VERDE), GPU Access
@@ -37,11 +44,7 @@ langchain core and openai, \ -->
 
 
 ## Step 2: Pattern Refinement
-Clean post comments i.e. lemmetize, translate emojies, rename hashtags, lowercase sentences
-Multlingual sentence transformers
-- Huggingface sentence transformer
-- LaBASE (Language Agnostic BERT sentence encoder)
-- GCN?
+
 
 ### Identify embeddings similarities
 
