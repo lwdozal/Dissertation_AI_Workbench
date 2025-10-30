@@ -35,11 +35,15 @@ Image embedding analysis without labels or captions
     - Human in the loop Inductive content analysis: Sample representative images per cluster.
 
 
-### Image embedding analysis with labels and captions
+### M-LLM analysis with labels and captions
 Generate Captions and labels in Structured format:
-- BLIP-2 : Caption abiliites
-- Llama 3 Vision : Labels + caption
-- Qwne 2.5-VL : Labels + caption
+-  CLIP : Labels
+-  BLIP-2 : Caption abiliites
+-  Llama 3 Vision : Labels + Description
+-  Qwen 2.5-VL : Labels + Description
+-  Llama3: Labels + Description
+-  Llama4 Scout: Labels + Description
+-  Phi4: Labels + Description
 
 
 ... Lead into Step2 to begin creation of Semantic Graph
